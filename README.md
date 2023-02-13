@@ -10,4 +10,5 @@ The data has been divided and visualized into 6 blocks:
 - Partially vs Fully Vaccinated per Location
 - Partially Vaccinated per Hundred worldwide
 - Partially Vaccinated over GDP (to see whether high GDP correlates with the share of partially vaccinated people)
-Then all block have been combined into a dashboard avaliable in Vaccinations-dashboard.twbx. 
+
+Finally all block have been combined into a dashboard avaliable in Vaccinations-dashboard.twbx. 
