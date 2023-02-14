@@ -17,6 +17,6 @@ All 4 filters are selectable:
 - Start Date 
 - End Date
 
-Finally all block have been combined into a dashboard avaliable in Vaccinations-dashboard.twbx. 
+Finished dashboard avaliable in Vaccinations-dashboard.twbx. 
 
 ![Dashboard 1 (1)](https://user-images.githubusercontent.com/93775985/218647943-7ab2f66e-754e-4cf0-953a-03882ece450e.png)
